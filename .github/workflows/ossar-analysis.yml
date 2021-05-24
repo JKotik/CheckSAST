@@ -10,7 +10,7 @@ on:
     # The branches below must be a subset of the branches above
     branches: [ master ]
   schedule:
-    - cron: '16 2 * * 5'
+    - cron: '45 8 * * 6'
 
 jobs:
   OSSAR-Scan:
